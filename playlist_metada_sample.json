@@ -1,0 +1,9 @@
+{
+    "cache": true,
+    "success": true,
+    "statusCode": 200,
+    "artists": "Spotify",
+    "title": "Your Top Songs 2016",
+    "cover": "https://lineup-images.scdn.co/your-top-songs-2016_DEFAULT-en.jpg",
+    "releaseDate": null
+}
